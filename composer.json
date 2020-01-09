@@ -1,0 +1,13 @@
+{
+    "name": "necrogami/ssh-tools",
+    "description": "SSH tools for helping to manage ssh",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Swartz",
+            "email": "djnecrogami@gmail.com"
+        }
+    ],
+    "require": {}
+}
