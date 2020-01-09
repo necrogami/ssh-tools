@@ -28,7 +28,7 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT](.github
 If you discover any security related issues, please email dev@c4.io instead of using the issue tracker.
 
 ## Credits
-- [Exonet][link-author]
+- [Necrogami][link-author]
 - [All Contributors][link-contributors]
 
 ## License
